@@ -11,16 +11,7 @@ Dream On Technology is a French innovator at the forefront of cybersecurity. Our
 Cutting-edge cybersecurity offerings to fortify your digital world:
 
 * **PanicSafe 🔒**: Innovative crisis management platform
-* **CyberRugg 🖥️**: Comprehensive 24/7 SOC/MSSP/SASE service tailored to your needs
-
-## Services 🛠️
-
-Expert assistance to overcome technical challenges:
-- Integration
-- Incident Management
-- Customized Security Solutions
-
-Our agile team delivers creative, concrete answers to your most critical cybersecurity issues.
+* More to come ...
 
 ## Excellence is Our Mission 🎯
 
@@ -37,6 +28,5 @@ Explore our solutions or discuss your project:
 Follow our journey and gain cybersecurity insights:
 - [linkedin/dream-on-tech](https://www.linkedin.com/company/dream-on-tech)
 - [dream-on.tech](https://dream-on.tech)
-- [panicsafe.eu](https://panicsafe.eu)
 
-**© 2024 Dream On Technology. All Rights Reserved.**
+**© 2025 Dream On Technology. All Rights Reserved.**
